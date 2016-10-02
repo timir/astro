@@ -8,6 +8,8 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+![](https://lh3.googleusercontent.com/-lbYH-mF3vFQ/V_B1Y4wLOEI/AAAAAAAAEyc/4dPd14TomAURkOLoHizZ6RdZCW9dnmqeACJoC/w346-h461/02.10.16%2B-%2B1)
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
